@@ -2,7 +2,7 @@
 
 A collection of links for web development tools.
 
-# Images Generators:
+# Images Generators
 
 - [.::BlobMaker::. Makes SVG Blobs](https://www.blobmaker.app)
 - [.::CSSGenerator::. Generates CSS Snipets](https://cssgenerator.org/)
