@@ -41,3 +41,8 @@ A collection of links for web development tools.
 # Fonts
 
 - [..::GoogleFonts::.. The google fonts catalog](https://fonts.google.com)
+
+# Regex
+
+- [..::RegExr::.. regex editor with nice explanations ](https://regexr.com)
+- [..::SoSed::.. sed and regex patterns](https://thobias.org/doc/sosed.html)
