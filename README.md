@@ -130,3 +130,8 @@ A collection of links for web development tools.
 # CSS
 
 - [..::UnusedCSS::.. Checks for UnusedCSS](https://unused-css.com/)
+
+# Data Fetching
+
+- [..::SWR::.. Hooks for data fetching](https://swr.vercel.app/)
+- [..::ReactQuery::.. Performance and data sync](https://react-query.tanstack.com/)
