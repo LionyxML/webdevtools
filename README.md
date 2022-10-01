@@ -121,6 +121,7 @@ A collection of links for web development tools.
 # Models
 
 - [..::Resume::.. A Resume Creator for Web](https://standardresume.co/)
+- [..::Medusa::.. Free Shopify Alternative](https://medusajs.com/)
 
 # Toolbelts
 
@@ -135,3 +136,17 @@ A collection of links for web development tools.
 
 - [..::SWR::.. Hooks for data fetching](https://swr.vercel.app/)
 - [..::ReactQuery::.. Performance and data sync](https://react-query.tanstack.com/)
+
+# Administrative Tools
+
+- [..::Clockify::.. Tracking hours spent in multiple projects](https://app.clockify.me/tracker)
+- [..::Trello::.. Kanbam for your work](https://trello.com/)
+- [..::Quire::.. Admin your tasks](https://quire.io/)
+- [..::SmartTask::.. Admin your tasks](https://smarttask.io/)
+- [..::Asana::.. Admin your tasks](https://asana.com/)
+- [..::Monday::.. Admin your tasks](https://monday.com/)
+
+# SEO
+
+- [..::Wappalyzer::.. Analize technologies used by web app](https://www.wappalyzer.com/)
+- [..::GTmetrix::.. Metrics on your deployed website](https://gtmetrix.com/)
